@@ -12,6 +12,7 @@ Built and maintained by indie hackers, for indie hackers. PRs welcome, see the C
 - [Databases](#databases)
 - [Developer Utilities (Browser-Based)](#developer-utilities-browser-based)
 - [Backend / API Infrastructure](#backend--api-infrastructure)
+- [Starter Kits & Boilerplates](#starter-kits--boilerplates)
 - [Email & Transactional](#email--transactional)
 - [Analytics](#analytics)
 - [CI/CD](#cicd)
@@ -61,6 +62,12 @@ Tools that run entirely client-side - nothing you paste gets uploaded anywhere.
 - [Resend](https://resend.com) - Developer-first transactional email API with a usable free tier (see [Email](#email--transactional) too).
 - [Pinecone](https://www.pinecone.io) - Managed vector database for embeddings/RAG, free starter tier.
 - [Cloudflare R2](https://www.cloudflare.com/products/r2/) - S3-compatible object storage with zero egress fees, free tier included.
+
+## Starter Kits & Boilerplates
+
+- [Shipindays](https://shipindays.nikhilsai.in) - Open-source Next.js SaaS starter CLI with a base + blocks pattern, so you scaffold only the pieces you need (auth, billing, etc) instead of a monolithic template.
+- [create-t3-app](https://create.t3.gg) - Typed, minimal Next.js starter combining tRPC, Prisma, NextAuth, and Tailwind.
+- [SaaS Starter (Vercel)](https://github.com/nextjs/saas-starter) - Official Vercel/Next.js SaaS starter with auth, Stripe billing, and dashboard boilerplate.
 
 ## Email & Transactional
 
