@@ -27,6 +27,7 @@ Built and maintained by indie hackers, for indie hackers. PRs welcome, see the C
 
 - [Vercel](https://vercel.com) - Zero-config hosting for Next.js and other frontend frameworks. Generous free tier, automatic preview deployments per PR.
 - [Netlify](https://netlify.com) - Static site and Jamstack hosting with built-in forms, functions, and CI. Free tier covers most side projects comfortably.
+- [Cloady](https://cloady.com) - App and database hosting with a free workspace allowance of 0.5 vCPU, 1 GB RAM, 5 GB SSD and 200 GB monthly traffic; phone verification required, and paid workspaces are billed on full allocated capacity.
 - [Cloudflare Pages](https://pages.cloudflare.com) - Unlimited free static hosting with unlimited bandwidth, backed by Cloudflare's global CDN.
 - [Cloudflare Workers](https://workers.cloudflare.com) - Serverless functions at the edge, extremely generous free request quota.
 - [Railway](https://railway.app) - Deploy full backends, databases, and cron jobs from a Dockerfile or repo with minimal config. Free trial credits, then usage-based.
